@@ -1,2 +1,3 @@
 # hello_world
-Just my first repository
+
+i am hzm, i love github.
